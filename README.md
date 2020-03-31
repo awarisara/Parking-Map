@@ -13,9 +13,9 @@ Procedure
     3. To check the result of counting method with the raw data. 
 
 Expected result
-  When you selected time period such as 1.00 - 3.00 pm. 
-  The result should be show number of changing status of slot.
-  Therefore, we know the number of car that parked in here.
+    When you selected time period such as 1.00 - 3.00 pm. 
+    The result should be show number of changing status of slot.
+    Therefore, we know the number of car that parked in here.
   
 ```
 
