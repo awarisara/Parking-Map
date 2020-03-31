@@ -15,7 +15,7 @@
 ```
 ## Expected result
 ```
-  When you selected time period such as 13.00-15.00 pm. 
-  The result should be show number of changing status of slot
+  When you selected time period such as 1.00 - 3.00 pm. 
+  The result should be show number of changing status of slot.
   Therefore, we know the number of car that parked in here.
 ```
