@@ -1,7 +1,7 @@
-```
-Parking Map
+## Parking Map
 
-Test case ID: Check the number of car had parking in each slots.
+```
+Test case: Check the number of car had parking in each slots.
 
 Objective 
     To check the changing status of slots over a selected time period.
