@@ -1,15 +1,14 @@
 ## Parking Map
 
 ```
-Test case: Check the number of car parked in each slots.
 
 Objective 
     To check the changing status of slots over a selected time period.
     The changing status : Available to Occupied parking.
 
 Procedure
-    1. To load data.
-    2. To select time period and the result should be show the number of changing status. 
+    1. To load data in .csv form.
+    2. To select time period and the result should be show the number of changing status of slots. 
     3. To check the result of counting method with the raw data. 
 
 Expected result
